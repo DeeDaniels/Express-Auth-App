@@ -1,0 +1,18 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+
+}
+img{
+  height: 200px;
+}
+body{
+  background-color: black;
+  color:#98C6DD;
+}
+.jumbotron{
+  background-color: white;
+}
+h1{
+  font-family: fantasy;
+}
